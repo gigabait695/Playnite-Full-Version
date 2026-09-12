@@ -249,4 +249,4 @@ This repository serves as the official landing page for Playnite. The software i
 **Get the most recent version of Playnite today!**
 
 ---
-**Last updated:** 2026-09-12 03:26:41 UTC
+**Last updated:** 2026-09-12 08:24:52 UTC
